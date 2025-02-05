@@ -28,6 +28,12 @@
         android:testOnly="true"
         android:theme="@style/Theme.WelcomePage" >
         <activity
+            android:name="Morales.Jesus.welcomepage.MenuActivity"
+            android:exported="false" />
+        <activity
+            android:name="Morales.Jesus.welcomepage.RegisterActivity"
+            android:exported="false" />
+        <activity
             android:name="Morales.Jesus.welcomepage.MainActivity"
             android:exported="true" >
             <intent-filter>
