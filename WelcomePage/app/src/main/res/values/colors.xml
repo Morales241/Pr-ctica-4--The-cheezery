@@ -4,8 +4,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="purple_grey">#644b5e</color>
     <color name="dusty_white">#ebebeb</color>
-    <color name="very_purple">#9739D</color>
-    <color name="less_purple">#b2108D</color>
+    <color name="very_purple">#9739D0</color>
+    <color name="less_purple">#B2108D</color>
     <color name="pinky">#c50390</color>
     <color name="last_pink">#ef029d</color>
     <color name="accent_color">#fe2bd0</color>
