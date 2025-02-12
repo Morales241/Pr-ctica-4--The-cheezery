@@ -4654,7 +4654,6 @@ int style Theme_MaterialComponents_Light_NoActionBar 0x7f100271
 int style Theme_MaterialComponents_Light_NoActionBar_Bridge 0x7f100272
 int style Theme_MaterialComponents_NoActionBar 0x7f100273
 int style Theme_MaterialComponents_NoActionBar_Bridge 0x7f100274
-int style Theme_TheCheezery 0x7f100275
 int style Theme_WelcomePage 0x7f100276
 int style ThemeOverlay_AppCompat 0x7f100277
 int style ThemeOverlay_AppCompat_ActionBar 0x7f100278

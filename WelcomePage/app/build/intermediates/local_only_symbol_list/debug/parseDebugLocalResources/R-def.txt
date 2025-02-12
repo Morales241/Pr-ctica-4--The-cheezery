@@ -57,7 +57,6 @@ string sweets
 string terms
 string welcome_text
 style Base.Theme.WelcomePage
-style Theme.TheCheezery
 style Theme.WelcomePage
 xml backup_rules
 xml data_extraction_rules

@@ -39,16 +39,18 @@
 
         <Button
             android:id="@+id/cold_drinks"
+            android:layout_width="816dp"
+            android:layout_height="wrap_content"
             android:layout_columnWeight="1"
             android:layout_gravity="fill_horizontal"
             android:layout_marginLeft="@dimen/menu_buttons_margin"
+            android:width="14dp"
             android:background="@drawable/third_gradient"
             android:paddingHorizontal="@dimen/menu_buttons_padding"
             android:paddingVertical="@dimen/menu_buttons_padding_v"
             android:text="@string/cold_drinks"
             android:textColor="@color/dusty_white"
-            android:textSize="@dimen/menu_buttons_text"
-            />
+            android:textSize="@dimen/menu_buttons_text" />
 
         <Button
             android:id="@+id/hot_drinks"
@@ -64,6 +66,8 @@
 
         <Button
             android:id="@+id/sweets"
+            android:layout_width="666dp"
+            android:layout_height="56dp"
             android:layout_columnWeight="1"
             android:layout_gravity="fill_horizontal"
             android:layout_marginLeft="@dimen/menu_buttons_margin"
@@ -71,10 +75,9 @@
             android:paddingHorizontal="@dimen/menu_buttons_padding"
             android:paddingVertical="@dimen/menu_buttons_padding_v"
             android:text="@string/sweets"
-            android:textColor="@color/dusty_white"
-            android:textSize="@dimen/menu_buttons_text"
 
-            />
+            android:textColor="@color/dusty_white"
+            android:textSize="@dimen/menu_buttons_text" />
 
         <Button
             android:id="@+id/salties"
@@ -91,6 +94,7 @@
 
         <Button
             android:id="@+id/customizable"
+            android:layout_width="399dp"
             android:layout_columnWeight="1"
             android:layout_gravity="fill_horizontal"
             android:layout_marginLeft="@dimen/menu_buttons_margin"
@@ -99,9 +103,8 @@
             android:paddingVertical="@dimen/menu_buttons_padding_v"
             android:text="@string/customizable"
             android:textColor="@color/dusty_white"
-            android:textSize="@dimen/menu_buttons_text"
 
-            />
+            android:textSize="@dimen/menu_buttons_text" />
 
         <Button
             android:id="@+id/combos"

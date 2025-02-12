@@ -1,218 +1,218 @@
 [
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xxxhdpi_title.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xxxhdpi\\title.png"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xxxhdpi_simpletitle.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xxxhdpi\\simpletitle.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xhdpi_title.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xhdpi\\title.png"
     },
     {
-        "merged": "Morales.Jesus.welcomepage.app-debug-32:/layout_activity_menu.xml.flat",
-        "source": "Morales.Jesus.welcomepage.app-main-34:/layout/activity_menu.xml"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-hdpi_title.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-hdpi\\title.png"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-hdpi_title.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-hdpi\\title.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable_third_gradient.xml.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable\\third_gradient.xml"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xxhdpi_title.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xxhdpi\\title.png"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-mdpi_simpletitle.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-mdpi\\simpletitle.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xxxhdpi_simpletitle.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xxxhdpi\\simpletitle.png"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-ldpi_title.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-ldpi\\title.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xhdpi_muffin.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xhdpi\\muffin.png"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable_first_gradient.xml.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable\\first_gradient.xml"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-mdpi_hello.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-mdpi\\hello.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xhdpi_simpletitle.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xhdpi\\simpletitle.png"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-ldpi_thecheezery.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-ldpi\\thecheezery.png"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-mdpi_muffin.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-mdpi\\muffin.png"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xxhdpi_muffin.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xxhdpi\\muffin.png"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-hdpi_muffin.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-hdpi\\muffin.png"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xxxhdpi_title.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xxxhdpi\\title.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable_third_gradient.xml.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable\\third_gradient.xml"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xhdpi_hello.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xhdpi\\hello.png"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-ldpi_simpletitle.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-ldpi\\simpletitle.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xxxhdpi_hello.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xxxhdpi\\hello.png"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-hdpi_simpletitle.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-hdpi\\simpletitle.png"
+        "merged": "Morales.Jesus.welcomepage.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "Morales.Jesus.welcomepage.app-main-34:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable_round_button.xml.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable\\round_button.xml"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xhdpi_simpletitle.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xhdpi\\simpletitle.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-hdpi_thecheezery.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-hdpi\\thecheezery.png"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\layout\\activity_menu.xml"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable_second_gradient.xml.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable\\second_gradient.xml"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-ldpi_muffin.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-ldpi\\muffin.png"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xxhdpi_hello.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xxhdpi\\hello.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xxhdpi_simpletitle.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xxhdpi\\simpletitle.png"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-hdpi_muffin.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-hdpi\\muffin.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xxxhdpi_muffin.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xxxhdpi\\muffin.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable_second_gradient.xml.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable\\second_gradient.xml"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xxhdpi_simpletitle.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xxhdpi\\simpletitle.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xhdpi_thecheezery.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xhdpi\\thecheezery.png"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xhdpi_thecheezery.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xhdpi\\thecheezery.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-mdpi_simpletitle.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-mdpi\\simpletitle.png"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xhdpi_title.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xhdpi\\title.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-mdpi_thecheezery.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-mdpi\\thecheezery.png"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-mdpi_muffin.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-mdpi\\muffin.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xxxhdpi_thecheezery.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xxxhdpi\\thecheezery.png"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xxxhdpi_hello.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xxxhdpi\\hello.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-ldpi_simpletitle.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-ldpi\\simpletitle.png"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\layout_activity_register.xml.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\layout\\activity_register.xml"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable_first_gradient.xml.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable\\first_gradient.xml"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-hdpi_simpletitle.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-hdpi\\simpletitle.png"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-ldpi_hello.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-ldpi\\hello.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable_round_button.xml.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable\\round_button.xml"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-mdpi_title.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-mdpi\\title.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xxxhdpi_thecheezery.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xxxhdpi\\thecheezery.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-hdpi_hello.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-hdpi\\hello.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-hdpi_thecheezery.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-hdpi\\thecheezery.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xhdpi_muffin.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xhdpi\\muffin.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xxhdpi_muffin.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xxhdpi\\muffin.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-ldpi_hello.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-ldpi\\hello.png"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-ldpi_muffin.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-ldpi\\muffin.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\layout\\activity_register.xml"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-mdpi_hello.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-mdpi\\hello.png"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-hdpi_hello.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-hdpi\\hello.png"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xhdpi_hello.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xhdpi\\hello.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-mdpi_title.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-mdpi\\title.png"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xxhdpi_title.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xxhdpi\\title.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xxxhdpi_muffin.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xxxhdpi\\muffin.png"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xxhdpi_thecheezery.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xxhdpi\\thecheezery.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xxhdpi_hello.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xxhdpi\\hello.png"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\layout_activity_menu.xml.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\layout\\activity_menu.xml"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-xxhdpi_thecheezery.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-xxhdpi\\thecheezery.png"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-mdpi_thecheezery.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-mdpi\\thecheezery.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-ldpi_thecheezery.png.flat",
-        "source": "C:\\Users\\tacot\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-ldpi\\thecheezery.png"
+        "merged": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-debug-32:\\drawable-ldpi_title.png.flat",
+        "source": "C:\\Users\\labo\\.gradle\\daemon\\8.10.2\\Morales.Jesus.welcomepage.app-main-34:\\drawable-ldpi\\title.png"
     }
 ]

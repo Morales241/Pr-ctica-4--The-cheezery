@@ -39,15 +39,15 @@
     />
 
     <Button
-        android:layout_width="219dp"
-        android:layout_height="40dp"
-        android:textSize="20sp"
-        android:textAlignment="center"
+        android:id="@+id/btn_started"
+        android:layout_width="226dp"
+        android:layout_height="74dp"
+        android:layout_gravity="center_horizontal"
         android:background="@drawable/round_button"
         android:text="@string/button_start"
+        android:textAlignment="center"
         android:textColor="@color/white"
-        android:layout_gravity="center_horizontal"
-        android:id="@+id/btn_started"
+        android:textSize="20sp"
 
         />
 

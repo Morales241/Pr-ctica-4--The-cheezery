@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
 
         setContentView(R.layout.activity_main)
-
+        enableEdgeToEdge()
         val button: Button = findViewById(R.id.btn_started) as Button
 
         button.setOnClickListener { it: View ->
